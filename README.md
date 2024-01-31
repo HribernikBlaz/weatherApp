@@ -13,7 +13,7 @@ Welcome to the Weather App! Get real-time weather information by entering the ci
 ## How to Use 🤔
 
 1. Enter the city name in the provided text box.
-2. Click the "Get Weather" button.
+2. Click on "search".
 3. View the current weather details.
 
 ## Technologies Used 💻
