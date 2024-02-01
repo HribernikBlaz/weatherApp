@@ -1,3 +1,28 @@
+@font-face {
+    font-family: 'Poppins';
+    src: url('fonts/Poppins-Bold.otf') format('opentype');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('fonts/Poppins-ExtraBold.otf') format('opentype');
+    font-weight: 800;
+    /* Navedite ustrezno številko za font-weight */
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('fonts/Poppins-SemiBold.otf') format('opentype');
+    font-weight: 400;
+    /* Navedite ustrezno številko za font-weight */
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('fonts/Poppins-Regular.otf') format('opentype');
+}
+
 *{
     margin:0;
     padding:0;
@@ -70,15 +95,15 @@ body{
 .details {
     margin-top: 20px;
     display: flex;
-    flex-wrap: wrap;  /* Dovoli zavijanje v novo vrstico */
+    flex-wrap: wrap; 
 }
 
 .col {
     display: flex;
     align-items: center;
     text-align: left;
-    flex-basis: 50%;  /* Zavzemi celotno razpoložljivo širino */
-    margin-bottom: 10px;  /* Dodaj prostor med vrsticami */
+    flex-basis: 50%;
+    margin-bottom: 10px; 
 }
 
 .col img {
