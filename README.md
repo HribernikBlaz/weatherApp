@@ -24,7 +24,7 @@ Welcome to the Weather App! Get real-time weather information by entering the ci
 
 ## Preview 📷
 
-https://blazhribernik-weatherapp.netlify.app/
+[Weather App Preview](https://blazhribernik-weatherapp.netlify.app/)
 
 ## API Key 🔑
 
